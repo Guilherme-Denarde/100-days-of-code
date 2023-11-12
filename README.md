@@ -19,3 +19,9 @@ More Info [here](code\week-01\day-02-functions\day-02-functions.ts)
 I am making an code to check if an string is palindrome.
 
 More Info [here](code\week-01\day-03-palindrome\day-03-palindrome.ts)
+
+## Day 4
+
+I am learning about for loops.
+
+More Info [here](code\week-01\day-04-for-loops\day-04-for-loops.ts)
