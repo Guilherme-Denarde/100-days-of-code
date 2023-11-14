@@ -25,3 +25,9 @@ More Info [here](code\week-01\day-03-palindrome\day-03-palindrome.ts)
 I am learning about for loops.
 
 More Info [here](code\week-01\day-04-for-loops\day-04-for-loops.ts)
+
+## Day 5
+
+I am learning about regular expressions.
+
+More Info [here](code\week-01\day-05-cpf-check\day-05-cpf-check.ts)
