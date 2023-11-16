@@ -41,3 +41,9 @@ More Info [here](challenges/week-01/day-06-asyn-sync/day-06-asyn-sync.md)
 I am making an Ad-Blocker Extension.
 
 More Info [here](challenges/week-01/day-07-add-block/day-07-add-block.md)
+
+## Day 8
+
+I am learning about HTTP requests and how they work in web development.
+
+More Info [here](challenges/week-02/day-08-http-requests/day-08-http-requests.md)
