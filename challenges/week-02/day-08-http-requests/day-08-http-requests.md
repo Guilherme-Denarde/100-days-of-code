@@ -1,3 +1,4 @@
+# Day 8
 # Understanding HTTP Requests in Web Development
 
 HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It defines a set of request methods, which indicate the desired action to be performed on a given resource. Here's an overview of the most common HTTP request methods:
