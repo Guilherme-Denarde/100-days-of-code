@@ -1,0 +1,21 @@
+{
+    "name": "WanderAdblocker",
+    "version": "1.0",
+    "description": "Recreating DevSage Adblocker Tutorial",
+    "manifest_version": 2,
+    "permissions": [
+        "*://developer.mozilla.org/*",
+        "tabs",
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": ["./"] 
+    },
+    "icons": {
+        "16": "icons/logo_16x16.png",
+        "48": "icons/logo_48x48.png",
+        "128": "icons/logo_128.png"
+    }
+}
